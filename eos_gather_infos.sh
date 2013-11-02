@@ -49,7 +49,7 @@ displayandexec() {
   return $ret
 }
 
-# Debut de l'installation
+# Debut de la génération des logs
 #-----------------------------------------------------------------------------
 clear
 
